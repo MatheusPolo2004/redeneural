@@ -1,1 +1,1 @@
-É o readme# redeneural
+É uma rede neural na qual ela é treinada para colocar vários produtos com tamanhos e preços diferentes (em um tamanho limitado), de forma que sempre leve a melhor opção financeira, mas sempre alternando os produtos.
